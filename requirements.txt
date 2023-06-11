@@ -1,0 +1,6 @@
+streamlit
+stop-words
+nltk
+spacy
+gensim
+.
